@@ -5,5 +5,5 @@ chroma_db/
 venv/
 backend/
 sanmple_docs/
-ingest.py
-rag_querry_test.py
+ingest.py/
+rag_querry_test.py/
