@@ -3,3 +3,7 @@ __pycache__/
 chroma_db/
 .env
 venv/
+backend/
+sanmple_docs/
+ingest.py
+rag_querry_test.py

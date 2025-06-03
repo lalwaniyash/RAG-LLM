@@ -1,4 +1,5 @@
-from langchain.vectorstores import Chroma
+# from langchain.vectorstores import Chroma
+from langchain_chroma import Chroma
 from langchain.embeddings import SentenceTransformerEmbeddings
 import requests
 # Load Chroma DB
